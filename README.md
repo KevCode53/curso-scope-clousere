@@ -29,9 +29,8 @@ This is because Javascript will not look to see if the function or variable is i
 
 
 *Curso Scope y Colusere Platzi* <img src='https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg' height=32 alt='Platzi Logo' title='Platzi' />
-**Prof. Oscar Barajas [GNDX](https://gndx.dev)**
-[1]:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/32px-Unofficial_JavaScript_logo_2.svg.png "Javascript"
 
+**Prof. Oscar Barajas [GNDX](https://gndx.dev)**
 
 
 Transcribed by: **Kevin Palma** - *DevKev*<img src="https://avatars.githubusercontent.com/u/47469351?s=400&u=3967350005c463e9ad98ab92c2afbc71e2d51a44&v=4" width=32  style="background: rgba(0,0,0,.2); border-radius: 100%; outline: 2px solid rgba(0,0,0,.5); margin-left: 10px;" />
